@@ -1,0 +1,20 @@
+.jumbotron{
+    background-image:url("https://www.pirateshowcancun.com/blog/wp-content/uploads/2019/05/the-legend-of-pirate-anne-bonny-1280x720.jpg");
+    background-size: 100% 100%;
+    color: whitesmoke;
+    background-size: 800px 800x;
+    height: 100vh;
+    text-align: center;
+
+
+}
+
+body{ 
+    background-color:#c19a6b ;
+    color: black;
+
+}
+table{
+    background-color:#ba8759 ;
+}
+
